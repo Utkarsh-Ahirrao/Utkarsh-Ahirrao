@@ -23,7 +23,7 @@
 
 ## 🍥 Ninja Info Card
 
-> *"I'm not gonna run away, I never go back on my word. That's my nindo, my ninja way!"*
+> *"I'm going to be Best DevOps Engineer, Believe It. That's my Goal, my Motivation!"*
 > I turn manual work into automated pipelines, and I like building cloud setups that stay clean, secure and easy to monitor.
 
 | | |
