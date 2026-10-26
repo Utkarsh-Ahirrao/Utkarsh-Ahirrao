@@ -15,7 +15,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Based%20in-Pune%2C%20India-FF6B00?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hometown-Nashik-FF9F1C?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20DevOps%20%26%20Azure%20Cloud%20roles-1E90FF?style=flat-square" />
 </p>
 
@@ -37,7 +36,7 @@
 
 ---
 
-## 🌀 Jutsu Arsenal (Skills)
+## 🌀 Ninja Techniques (Skills)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=azure,terraform,kubernetes,docker,git,github,githubactions,linux,bash,python,grafana,prometheus,nginx,cloudflare&perline=7" />
@@ -63,8 +62,11 @@
 
 ---
 
-💻 Terminal
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=39FF14&background=0D1117&center=true&vCenter=true&width=720&height=140&lines=%24+az+login;%24+terraform+init;%24+terraform+plan%3D;%24+terraform+apply;Apply+complete!+Infrastructure+is+live+%E2%9C%85;%24+echo+%22Believe+It!%22" alt="Terminal animation" /> </p>
+## 💻 Terminal
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=39FF14&background=0D1117&center=true&vCenter=true&width=720&height=140&lines=%24+az+login;%24+terraform+init;%24+terraform+plan;%24+terraform+apply;Apply+complete!+Infrastructure+is+live+%E2%9C%85;%24+echo+%22Believe+It!%22" alt="Terminal animation" />
+</p>
 
 ---
 
