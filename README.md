@@ -32,7 +32,7 @@
 | 📊 **Monitoring** | Prometheus + Grafana dashboards and alerts (CPU, disk, memory, node down, service alerts) |
 | ☸️ **Containers** | Kubernetes / AKS cluster configuration, Docker |
 | 🎓 **Education** | BE in Electronics and Telecommunication (Cyber Security Honors), Diploma in IT |
-| 📍 **Location** | Pune, India (originally from Nashik) |
+| 📍 **Location** | Pune, India |
 
 ---
 
@@ -72,9 +72,9 @@
 
 ## 🧭 Ninja Path (Currently Training)
 
-- 🔥 Going deeper into **Kubernetes / AKS**
-- 🔥 Advanced **Terraform** patterns
-- 🔥 Better **observability** with Prometheus and Grafana
+- 🔥 Going deeper into **Terraform & Cloud Platform**
+- 🔥 Advanced **Pipeline & Automation** patterns
+- 🔥 Better **Security Tools** for cloud security
 
 ---
 
