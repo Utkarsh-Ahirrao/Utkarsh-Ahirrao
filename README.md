@@ -12,17 +12,27 @@
 - 🎓 BE in Electronics & Telecommunication (Cyber Security Honors)
 - 📍 Pune (originally from Nashik)
 - 🌱 Learning: Kubernetes, Docker, advanced Terraform
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [Email](mailto:YOUR_EMAIL)
+- 📫 Reach me: [LinkedIn]((https://www.linkedin.com/in/utkarsh-ahirrao-a6b1293a7)) | [Email](utkarshahirrao2@gmail.com)
 
 ## 🛠️ Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,git,github,githubactions,linux,bash,python&perline=10" />
+  ## 🛠️ Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,git,github,githubactions,linux,grafana,bash,python&perline=11" />
+</p>
+
+<!-- Azure DevOps sathi separate badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+</p>
 </p>
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Ahirrao
+&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Ahirrao
+&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- Footer -->
