@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:FF9F1C,100:1E90FF&height=260&section=header&text=Utkarsh%20Ahirrao&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20DevOps%20Engineer%20%7C%20Azure%20Cloud%20Engineer&descSize=22&descAlignY=60" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=FF6B00&center=true&vCenter=true&width=800&height=50&lines=Hi%2C+I+am+UT+-+nice+to+meet+you;Junior+DevOps+Engineer+%40+Shell+Square+Solutions;Azure+%7C+Terraform+%7C+CI%2FCD+%7C+Kubernetes;Prometheus+%7C+Grafana+%7C+Monitoring+%26+Alerts;Believe+it!+Dattebayo!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=FF6B00&center=true&vCenter=true&width=800&height=50&lines=Hi%2C+I+am+UT+-+nice+to+meet+you;Junior+DevOps+Engineer+%40+Shell+Square+Softwares;Azure+%7C+Terraform+%7C+CI%2FCD+%7C+Kubernetes;Prometheus+%7C+Grafana+%7C+Monitoring+%26+Alerts;Believe+it!+Dattebayo!" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -63,51 +63,12 @@
 
 ---
 
-## 🏯 Mission Log (Experience)
-
-| 🗓️ Period | 🎖️ Rank | 📜 What I did |
-|---|---|---|
-| **June 2026 - Present** | **Junior DevOps Engineer**, Shell Square Solutions | Set up Prometheus and Grafana monitoring with alerts for CPU, disk, memory and node down, and working on service alerts. Set up self-hosted agents for CI/CD on QA and Dev. Supporting Kubernetes / AKS cluster configuration and writing multi-stage YAML pipelines. |
-| **April 2025 - March 2026** | **Azure Cloud Intern**, DevOps Insiders | Worked hands-on with the Azure portal (RG, VNet, VM, Blob), Load Balancer, Application Gateway and Bastion. Learned and built Terraform with NSG rules, storage redundancy, parent/child modules, remote state, and scanning with tfsec, tflint and TruffleHog. Used GitHub Actions with feature-branch and PR workflow. |
-
----
-
-## ⚔️ Secret Techniques (Projects)
-
-### 🎬 Netflix Demo Website: Full IaC + CI/CD Deployment
-Deployed a demo Netflix-style website on Azure entirely through code.
-- Terraform **parent/child modules** for the whole infrastructure
-- **Azure DevOps multi-stage pipeline** with **tfsec** and **tflint** stages
-- VM credentials stored as **pipeline secrets**
-- **Branch policy** with PR and reviewer approval before anything gets deployed
-- Traffic served through **Azure Application Gateway**, with a **Cloudflare A record** pointing to its public IP
-
-`Terraform` `Azure DevOps` `Application Gateway` `tfsec` `tflint` `Cloudflare`
-
-### 🚀 Azure DevOps + Terraform: Feature Branch to Live Website
-- Pipeline triggered from a feature branch, then PR approval and merge
-- Automatically created the VM, configured **Nginx**, and hosted a demo website
-
-`Azure Pipelines` `Terraform` `Nginx` `Git`
-
-### 🧱 Modular Terraform Project for Azure
-- Reusable modules for resource groups, storage, networking and compute
-- **Remote backend** state management on Azure Storage
-
-`Terraform` `Azure` `Remote State`
-
-### 🔄 Multi-Stage Azure Pipelines for Terraform
-- Optional and independent **tfsec** and **tflint** stages controlled by boolean parameters
-- Followed by install, init, validate, plan and apply stages
-- Runs on a self-hosted agent pool
-
-`YAML` `Azure Pipelines` `Terraform` `tfsec` `tflint`
-
-### 📊 Monitoring Stack with Prometheus and Grafana
-- Alerts for CPU, disk, memory and node down
-- Service alerts for application health
-
-`Prometheus` `Grafana` `Alerting`
+🚀 Launch Pad
+<p align="center"> <img src="./assets/rocket.svg" width="100%" alt="Rocket launch animation" /> </p>
+🛰️ Flight Path
+<p align="center"> <img src="./assets/pipeline.svg" width="100%" alt="CI/CD pipeline animation" /> </p>
+💻 Terminal
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=39FF14&background=0D1117&center=true&vCenter=true&width=720&height=140&lines=%24+az+login;%24+terraform+init;%24+terraform+plan+-out%3Dtfplan;%24+terraform+apply+tfplan;Apply+complete!+Infrastructure+is+live+%E2%9C%85;%24+echo+%22Dattebayo!%22" alt="Terminal animation" /> </p>
 
 ---
 
