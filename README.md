@@ -63,10 +63,6 @@
 
 ---
 
-🚀 Launch Pad
-<p align="center"> <img src="./assets/rocket.svg" width="100%" alt="Rocket launch animation" /> </p>
-🛰️ Flight Path
-<p align="center"> <img src="./assets/pipeline.svg" width="100%" alt="CI/CD pipeline animation" /> </p>
 💻 Terminal
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=39FF14&background=0D1117&center=true&vCenter=true&width=720&height=140&lines=%24+az+login;%24+terraform+init;%24+terraform+plan+-out%3Dtfplan;%24+terraform+apply+tfplan;Apply+complete!+Infrastructure+is+live+%E2%9C%85;%24+echo+%22Dattebayo!%22" alt="Terminal animation" /> </p>
 
